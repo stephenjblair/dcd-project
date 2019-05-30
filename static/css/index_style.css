@@ -1,0 +1,23 @@
+body {
+  font-family: courier;
+  color: grey;
+  background-color: #1a1a1a;
+}
+
+#headings h4 {
+  font-family: courier;
+  color: pink;
+}
+#bg-img {
+  height: 80vh;
+  width: 100%;
+}
+#submit-button {
+  background-color: pink;
+  font-family: courier;
+
+}
+
+.row .col.s6 {
+  width: 100%;
+}

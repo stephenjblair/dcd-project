@@ -1,6 +1,12 @@
-.nav-wrapper {
-    background-color: #000;
-    padding-left: 50px;
-
+body {
+  background-color: #1a1a1a;
+  font-family: courier;
+  color: #fff;
 }
-
+.nav-wrapper {
+  background-color: pink;
+}
+.nav-wrapper a {
+  margin-left: 50px;
+  font-size: 1.5em;
+}
